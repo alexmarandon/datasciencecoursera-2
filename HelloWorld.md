@@ -1,4 +1,3 @@
 # datasciencecoursera
 ## This is a markdown file
-My repository for Coursera 
-test
+My repository for Coursera
